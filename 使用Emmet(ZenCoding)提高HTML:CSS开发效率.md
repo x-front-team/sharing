@@ -142,6 +142,17 @@ ul>li#item$@-*3
 </ul>
 ```
 
+```html
+ul>li#item$@-6*3
+```
+==>
+```html
+<ul>
+    <li id="item8"></li>
+    <li id="item7"></li>
+    <li id="item6"></li>
+</ul>
+```
 ###8.组合
 ```html
 section.outer>div.inner#innerId>p{文本文本$}*4
@@ -202,18 +213,18 @@ section>(header+(ul>li.item$*3)+footer)
 另外，WebStorm在less中也支持Emmet奥~
 
 ###属性
-w ==> width 
-h ==> height  
-p ==> padding  
-m ==> margin  
-bd ==> border
-bdc ==> border-color  
-bdw ==> border-width
-bds ==> border-style
+w ==> width    
+h ==> height    
+p ==> padding    
+m ==> margin    
+bd ==> border   
+bdc ==> border-color    
+bdw ==> border-width  
+bds ==> border-style  
 
 pt ==> padding-top  
 pr ==> padding-right  
-pb ==> padding-bottom  
+pb ==> padding-bottom   
 pl ==> padding-left  
 
 margin和border同理  
@@ -232,10 +243,10 @@ r ==> right
 o ==> opacity  
 ov ==> overflow  
 
-看到这里，你一定看出了规律。  
-没错，就是CSS属性的首字母，如果是子属性，就追加子属性的首字母。如果有相同首字母的CSS属性，就通过第二个字母加以区分。  
-每当你需要写一个CSS属性的时候，思考一下这个属性各个单词的首字母尝试一下吧。
-如果首字母还不足以区分，再试试尾字母~
+看到这里，你一定看出了规律。    
+没错，就是CSS属性的首字母，如果是子属性，就追加子属性的首字母。如果有相同首字母的CSS属性，就通过第二个字母加以区分。    
+每当你需要写一个CSS属性的时候，思考一下这个属性各个单词的首字母尝试一下吧。  
+如果首字母还不足以区分，再试试尾字母~  
 
 ###属性值
 w10 ==> width: 10px;  
@@ -243,13 +254,13 @@ w20r ==> width: 20rem;
 h30e ==> height: 30em;  
 h40p ==> height: 40%;  
 
-left和right同理
+left和right同理  
 
-p10 ==> padding: 10px;  
-p10-20 ==> padding: 10px 20px;
-p10-20-30 ==> padding: 10px 20px 30px;
-p40-50p ==> padding: 40px 50%;  
-p20p30r40e60 ==> padding: 20% 30rem 40em 60px;
+p10 ==> padding: 10px;    
+p10-20 ==> padding: 10px 20px;  
+p10-20-30 ==> padding: 10px 20px 30px;  
+p40-50p ==> padding: 40px 50%;   
+p20p30r40e60 ==> padding: 20% 30rem 40em 60px;  
 p10--20 ==> padding: 10px -20px;  
 
 margin和border同理  
@@ -265,9 +276,9 @@ poa ==> position: absolute;
 pof ==> position: fixed;  
 
 ovh ==> overflow: hidden;  
-ovv ==> overflow: visible;
+ovv ==> overflow: visible;  
 
--tra
+-tra  
 ==>
 ```css
 -webkit-transform: ;
@@ -276,21 +287,22 @@ ovv ==> overflow: visible;
   -o-transform: ;
   transform: ;
 ```
-然后可以五处同步编辑！  
 
--wm-tra
-==>
+然后可以五处同步编辑！    
+
+-wm-tra  
+==>  
 ```css
 -webkit-transform: ;
   -moz-transform: ;
   transform: ;
 ```
 
-规律是不是也很好找？  
-小伙伴们赶紧行动起来吧！
+规律是不是也很好找？    
+小伙伴们赶紧行动起来吧！  
 
 ##总结
-以上就是Emmet的常用写法，并没有全部列出，掌握这些已经够用了。  
+以上就是Emmet的常用写法，并没有全部列出，但掌握这些已经够用了。    
 要查看全部缩写，请移步 官网 http://docs.emmet.io/
 
 
