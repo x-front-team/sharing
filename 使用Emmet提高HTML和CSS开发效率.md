@@ -305,4 +305,4 @@ ovv ==> overflow: visible;
 以上就是Emmet的常用写法，并没有全部列出，但掌握这些已经够用了。    
 要查看全部缩写，请移步 官网 http://docs.emmet.io/
 
-
+![](http://stoneydream.com/wp-content/uploads/2015/08/images.png)
