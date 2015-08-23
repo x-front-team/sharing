@@ -13,6 +13,17 @@
 11. http://stackoverflow.com/questions/19383812/whats-the-difference-between-ngmodel-modelvalue-and-ngmodel-viewvalue
 
 
-以上的记录最新的一条是2014-12-17，可见本人已经很久没有做类似的记录了，希望以后有机会继续新增记录。
+###ReactJS
+1. 占坑
+
+
+###React Native
+1. 占坑
+
+###鸡汤类
+1. 如何成为一名卓越的前端工程师： http://web.jobbole.com/83207/
+
+
+
 
 
