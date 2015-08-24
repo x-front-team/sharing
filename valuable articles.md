@@ -1,5 +1,14 @@
 ##分享有价值的文章
-###AngularJS
+###一、底层
+####JavaScript
+1. 占坑
+
+####CSS
+1. 学习BFC：http://web.jobbole.com/83274/
+
+
+###二、框架/类库
+####AngularJS
 1. http://www.oschina.net/translate/angularjs-factory-vs-service-vs-provider
 2. http://tutorials.jenkov.com/angularjs/views-and-directives.html#ng-switch-directive
 3. http://www.html-js.com/article/1863
@@ -13,14 +22,29 @@
 11. http://stackoverflow.com/questions/19383812/whats-the-difference-between-ngmodel-modelvalue-and-ngmodel-viewvalue
 
 
-###ReactJS
+####ReactJS
 1. 占坑
 
 
-###React Native
+####React Native
 1. 占坑
 
-###鸡汤类
+
+####jQuery
+1. 占坑
+
+
+
+
+###三、工具
+####grunt
+1. 占坑
+
+####gulp
+1. 占坑
+
+
+###四、鸡汤
 1. 如何成为一名卓越的前端工程师： http://web.jobbole.com/83207/
 
 
