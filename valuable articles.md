@@ -47,6 +47,7 @@
 
 ###四、工程
 1. 前端工程——基础篇：https://github.com/fouber/blog/issues/10
+2. H5性能优化方案: http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=207605515&idx=1&sn=a552e2c05db0a1e652f7c0320b776d56&scene=0#rd
 
 ###五、亮瞎眼
 1. 网页无图再不是梦想： http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=207356392&idx=1&sn=b57895085cc7fd1de5b842dc91a8ae86&scene=0#rd
