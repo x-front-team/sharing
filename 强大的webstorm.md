@@ -15,5 +15,9 @@
 13. 支持AngularJS代码提示，举一个牛逼的场景：自定义指令priceFormatter，HTML中自动提示price-formatter
 14. 可识别React的JSX语法
 15. 大部分功能Webstorm已经帮你内置好了，不需要去撞插件，当然它也有自己庞大的插件系统，有需要的话也可以去安装相应插件
-16. Webstorm的个人价格是49刀，Sublime是70刀
-17. 更多强大功能...欢迎小伙伴们来补充
+16. 代码折叠，包括js和less，css
+
+
+
+ Webstorm的个人价格是49刀，Sublime是70刀
+更多强大功能...欢迎小伙伴们来补充
